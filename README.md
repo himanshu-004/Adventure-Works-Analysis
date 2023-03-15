@@ -81,6 +81,7 @@ created fully automated data shaping and loading (ETL) procedures
    reports, allowing users to “drill up” and 
    “drill down” through different levels of the hierarchy in a    
    meaningful way
+   
 ![image](https://user-images.githubusercontent.com/81569893/224555212-9e4cf465-f1da-4791-8f0b-563db6e411a3.png)
 ## Creating table relationships and data models
 
