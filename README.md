@@ -173,3 +173,22 @@ CALCULATE() = Evaluates a given expression or formula under a set of defined fil
 CALCULATE works just like SUMIF or COUNTIF in Excel, except it can evaluate measures based on ANY 
 sort of calculation (not just a sum, count, etc); it may help to think of it like “CALCULATEIF”
 
+## Interactive Report To Analyze And Visualize The Data
+
+### The Power BI Report View
+
+* The Power BI report view consist of various tools and visualization options such as Charts, Slicers, Maps, Matrices, etc Filters Pane such as Visual-Level, Page-Level, and Report-Level Filters
+
+* This options will provide to create Interactive visualization
+
+![image](https://user-images.githubusercontent.com/81569893/225971411-e7420d0e-a570-4f55-9bf6-74b5c8622c3d.png)
+
+Exec summary
+
+
+
+
+![image](https://user-images.githubusercontent.com/81569893/225971706-effdac39-23e7-4eb3-8788-b6b5e477ebcf.png)
+
+Product detail
+
